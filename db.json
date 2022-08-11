@@ -6,7 +6,7 @@
   "cast":"Daniel emma watson",
   "url":"https://uptostream.com/iframe/2zfwtv2fpxsn",
   "title":"Harry Potter and the Sorcerers Stone",
-  "rel":"harry potter6"
+  "rel":"harrypotter6"
     },
     
     {"id":"2",
@@ -15,7 +15,7 @@
      "cast":"Daniel emma watson",
      "url":"https://uptostream.com/iframe/4wor5xzjbofj",
      "title":"Harry Potter and the Chamber of Secrets",
-     "rel":"harry potter6"
+     "rel":"harrypotter6"
     },
     {"id":"3",
       "img":"https://w3.egydead.live/wp-content/uploads/2021/06/فيلم-Batman-The-Long-Halloween-Part-One-2021-مترجم.jpg",
@@ -150,7 +150,7 @@
       "cast":"",
       "url":"https://uptostream.com/iframe/b86km7omuv7f",
       "title":"Harry Potter and the Goblet of Fire",
-      "rel":"harry potter6"
+      "rel":"harrypotter6"
  },
  {
  "id":"22",
@@ -160,7 +160,7 @@
       "url":"https://uqload.com/embed-8toyjatgcxjc.html",
       "title":"Harry Potter and the Order of the Phoenix",
       "type":"Drama Action Movie",
-      "rel":"harry potter6"
+      "rel":"harrypotter"
  },
  {
   "id":"23",
@@ -170,7 +170,7 @@
       "url":"https://uqload.com/embed-djrd2b791vbe.html",
       "title":"Harry Potter and the Deathly Hallows: Part 2",
       "type":"Drama Action Movie",
-      "rel":"harry potter"
+      "rel":"harrypotter6"
  }
 ] 
 }
