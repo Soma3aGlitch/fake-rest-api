@@ -130,7 +130,8 @@
         "desc":"بعد أن صار بيتر باركر متهمًا بقتل ماستريو ونشر الفوضى في المدينة، يلجأ الأخير إلى دكتور سترينج في محاولة لمحو ما حدث واستعادة سرية هويته، وخلال ذلك يجد باركر نفسه في مواجهة مع أعداء من عوالم آخرى",
         "cast":"",
         "url":"https://vidshar.org/embed-hgr0r4w1eoa1.html?Key=WsjjGP3gRj0aJUkLKDEGkg&Expires=1660059971",
-        "title":"SpiderMan No Way Home"
+        "title":"SpiderMan No Way Home",
+        "type":"Action Drama"
    },
     {
         "id":"19",
@@ -138,7 +139,8 @@
         "desc":"في الجزء الثالث من سلسلة (هاري بوتر)، يعود الساحر الصغير مرة أخرى، وفي أثناء قضاء إجازته الصيفية مع أسرة (ديريسلي)، وتضطره حماقات الأسرة إلى ممارسة السحر الممنوع ممارسته خارج عالم السحرة، فيقرر الهروب من مدرسة (هووجوتس)، لمحاولة حل مشكلة مخالفته للقانون، ويتعقد الموقف بهروب (سيرس بلاك)؛ السجين الخطير من سجن أزكابان المخيف، ومحاولته الانتقام منه، وقتله، فهل سينجح (هاري بوتر) في النجاة من المأزق",
         "cast":"",
         "url":"https://uptostream.com/iframe/bsn5rhs7ov8j",
-        "title":"Harry Potter and the Prisoner of Azkaban"
+        "title":"Harry Potter and the Prisoner of Azkaban",
+         "type":"Action Drama Movie"
     },
    {
    "id":"21",
@@ -146,7 +148,8 @@
         "desc":"يعود لورد فولدمورت من جديد بعد أن استعاد جسده، ويقع عالم السحر في مفترق طرق. ويُفاجأ هاري بوتر بضمه إلى دورة السحرة الثلاثة ليصبح الساحر الرابع، وعليه تأدية مهام خطيرة، تقوده في النهاية عبر كأس النار إلى فولدمورت ليهرب منه حيًا.",
         "cast":"",
         "url":"https://uptostream.com/iframe/b86km7omuv7f",
-        "title":"Harry Potter and the Goblet of Fire"
+        "title":"Harry Potter and the Goblet of Fire",
+        "type":"Action Drama Movie"
    },
    {
    "id":"22",
@@ -154,7 +157,43 @@
         "desc":"تتلاشى الفواصل بين العالم العادي والعالم السحري، ويكتشف (هاري بوتر) المزيد من الحقائق التي كانت قد غابت عنه منذ ولادته، وذلك بالتزامن مع تنامي الخطر الذي يمثله عودة الساحر الشرير (فولدمورت)",
         "cast":"",
         "url":"https://uqload.com/embed-8toyjatgcxjc.html",
-        "title":"Harry Potter and the Order of the Phoenix"
+        "title":"Harry Potter and the Order of the Phoenix",
+        "type":"Action Drama Movie"
+   },
+   {
+    "id":"23",
+        "img":"https://i.egycdn.com/pic/WmFwZndlY21tdk5UVGFjS3htbWx2Y3hQUA.jpg",
+        "desc":"يعود (هاري بوتر) إلى مدرسته ليلتقي مرة أخرى بأصدقائه المقربين، ويكتشف كتاب في المدرسة كان يمتلكه (الأمير الهجين) مليء بتعويذات غريبة، والتي تجعل (هاري) يبحث عن حقيقة شخصية صاحب الكتاب. في نفس الوقت يبذل الأستاذ دمبلدور مجهودًا كبيرًا مع (هاري) ليحضره للمعركة المؤكدة بينه وبين (لورد فولدمورت)",
+        "cast":"",
+        "url":"https://uqload.com/embed-uxxcahqosfw6.html",
+        "title":"Harry Potter and the Half-Blood Prince",
+       "type":"Action Drama Movie"
+   },
+   {
+    "id":"24",
+        "img":"https://i.egycdn.com/pic/WmFwZndlY21tdk5USGNFY3ZjbWJ3ZHp4bW1tSGM.jpg",
+        "desc":"ترك (هاري بوتر)، وأصدقائه في مدرسة (هوجورتس)، منازلهم بسبب اقتراب المواجهة المحتومة مع (لورد فولدمورت) المخيف، الذي يحاول السيطرة على كلٍ من في مدرسة (هووجورتس)، التي طرد منها من قبل وزارة السحر ليغرق العالم بأكمله في الظلام، ويكتشفوا خلال رحلتهم وجود أقوى ثلاثة أشياء في عالم السحر بأسره، وهى مقدسات الموت",
+        "cast":"",
+        "url":"https://uqload.com/embed-i7jsdnn5inhq.html",
+        "title":"Harry Potter and the Deathly Hallows: Part 1",
+        "type":"Action Drama Movie"
+   },
+   {
+    "id":"25",
+        "img":"https://i.egycdn.com/pic/WmFwZndlY21ZRW1FbUVtVEhjRWNhYW1FbWJhbW1tSWw.jpg",
+        "desc":"حاول (هاري بوتر) برفقة (رون)، و(هيرميون) الفوز على قوى الشر، وهنا يحاول (هاري) العودة إلى (هوجوورتس) ﻹيجاد وتدمير (فولدمورت) نهائيًا الذي يكتشف مهمتهم وخطتهم فتبدأ أكبر المعارك بين (هاري) ورفاقه، وبين (فولدمورت)، حيث يستخدم تعويذة النار الشيطانية، والتي تتسبب في تدمير (الهوركروكس) السادس"
+        "url":"https://uqload.com/embed-djrd2b791vbe.html",
+        "title":"Harry Potter and the Deathly Hallows: Part 2",
+       "type":"Action Drama Movie"
+   },
+   {
+    "id":"26",
+        "img":"https://w3.egydead.live/wp-content/uploads/2020/08/فيلم-Voldemort-Origins-of-the-Heir-2018-مترجم.jpg",
+        "desc":"ملخص سلسلة افلام هاري بوتر من انتاج وترجمة اسلام الجيزاوي",
+        "cast":"",
+        "url":"https://www.linkbox.to/player.html?id=fp378g0003kx",
+        "title":"Voldemort Origins of the Heir 2018",
+       "type":"Action Drama Dict"
    }
   ] 
   }
