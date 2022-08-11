@@ -5,7 +5,8 @@
   "desc":"تدور أحداث الفلم في إطار خيالي استنادا إلى الرواية التي كتبتها الكاتبة البريطانية (ج . ك . رولينج) (هاري بوتر وحجر البروفسير) ، فتدور الأحداث حول الصغير (هاري بوتر) الذي يحتفل بعيد ميلاده الحادي عشر ، ويكتشف بالصدفة أنه ساحر فينتقل إلى مدرسة (هوجوارتس) ليتعلم هناك أعمال السحر والشعوذة" ,
   "cast":"Daniel emma watson",
   "url":"https://uptostream.com/iframe/2zfwtv2fpxsn",
-  "title":"Harry Potter and the Sorcerers Stone"
+  "title":"Harry Potter and the Sorcerers Stone",
+  "rel":"harry potter"
     },
     
     {"id":"2",
@@ -13,7 +14,8 @@
      "desc":"تلقى (هاري بوتر) تحذيرًا من الجني المنزلي (دوبي) من العودة إلى مدرسة هوغوورتس، ويأتي (رون ويزلي) وشقيقاه لإنقاذ هاري بسيارتهم الطائرة، وتبدأ سلسلة من الهجمات على الطلبة من أبناء العامة غير السحرة، وهو اﻷمر ذو الصلة بحجرة اﻷسرار التي انفتحت",
      "cast":"Daniel emma watson",
      "url":"https://uptostream.com/iframe/4wor5xzjbofj",
-     "title":"Harry Potter and the Chamber of Secrets"
+     "title":"Harry Potter and the Chamber of Secrets",
+     "rel":"harry potter"
     },
     {"id":"3",
       "img":"https://w3.egydead.live/wp-content/uploads/2021/06/فيلم-Batman-The-Long-Halloween-Part-One-2021-مترجم.jpg",
@@ -138,7 +140,8 @@
       "desc":"في الجزء الثالث من سلسلة (هاري بوتر)، يعود الساحر الصغير مرة أخرى، وفي أثناء قضاء إجازته الصيفية مع أسرة (ديريسلي)، وتضطره حماقات الأسرة إلى ممارسة السحر الممنوع ممارسته خارج عالم السحرة، فيقرر الهروب من مدرسة (هووجوتس)، لمحاولة حل مشكلة مخالفته للقانون، ويتعقد الموقف بهروب (سيرس بلاك)؛ السجين الخطير من سجن أزكابان المخيف، ومحاولته الانتقام منه، وقتله، فهل سينجح (هاري بوتر) في النجاة من المأزق",
       "cast":"",
       "url":"https://uptostream.com/iframe/bsn5rhs7ov8j",
-      "title":"Harry Potter and the Prisoner of Azkaban"
+      "title":"Harry Potter and the Prisoner of Azkaban",
+      "rel":"harry potter"
   },
  {
  "id":"21",
@@ -146,7 +149,8 @@
       "desc":"يعود لورد فولدمورت من جديد بعد أن استعاد جسده، ويقع عالم السحر في مفترق طرق. ويُفاجأ هاري بوتر بضمه إلى دورة السحرة الثلاثة ليصبح الساحر الرابع، وعليه تأدية مهام خطيرة، تقوده في النهاية عبر كأس النار إلى فولدمورت ليهرب منه حيًا.",
       "cast":"",
       "url":"https://uptostream.com/iframe/b86km7omuv7f",
-      "title":"Harry Potter and the Goblet of Fire"
+      "title":"Harry Potter and the Goblet of Fire",
+      "rel":"harry potter"
  },
  {
  "id":"22",
@@ -155,7 +159,8 @@
       "cast":"",
       "url":"https://uqload.com/embed-8toyjatgcxjc.html",
       "title":"Harry Potter and the Order of the Phoenix",
-      "type":"Drama Action Movie"
+      "type":"Drama Action Movie",
+      "rel":"harry potter"
  },
  {
   "id":"23",
@@ -164,7 +169,8 @@
       "cast":"",
       "url":"https://uqload.com/embed-djrd2b791vbe.html",
       "title":"Harry Potter and the Deathly Hallows: Part 2",
-      "type":"Drama Action Movie"
+      "type":"Drama Action Movie",
+      "rel":"harry potter"
  }
 ] 
 }
