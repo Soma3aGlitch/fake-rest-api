@@ -214,6 +214,36 @@
       "title":"Harry Potter and the Deathly Hallows: Part 1",
       "type":"Drama Action Movie",
       "rel":"harrypotter6 harrypotter3"
+ },
+ {
+ "id":"26",
+      "img":"https://img.akwam.link/uploads/Tt7Mq.jpg",
+      "desc":"يتناول الفيلم العالم السحري الخيالي من خلال الجنية (تينكربيل) التي تحاول تحقيق الأحلام.",
+      "cast":"",
+      "url":"https://s358d1.akwam.link/download/1660317810/62f51ef2d1388/Tinker.Bell.2008.480p.BluRay.AKWAM.mp4",
+      "title":"Tinker Bell",
+      "type":"cartoon fantasy",
+      "rel":"tinkerbell"
+ },
+ {
+   "id":"27",
+      "img":"https://img.akwam.link/uploads/Ndwk7.jpg",
+      "desc":"في نهاية فصل الشتاء تدفع قوة خفية بالجني اللطيف (تينكربيل) لدخول غابة الشتاء المحرمة، وتقوي طبيعته الفضولية من تلك الرغبة، ويقابل في الغابة جني الصقيع (بيري وينكل) الذي يملك القدرة على حل لغز الأجنحة الغامض، ويخوضان مغامرة مثيرة تحدد مصير عالمهم، وفي ذات الوقت تواجه الجنية (بيكسي) تهديدًا لايمكن مواجهته إلا باتحاد الجماعة فهل سينجحون؟",
+      "cast":"",
+      "url":"https://s357d2.akwam.link/download/1660318163/62f520531ae6b/Tinker.Bell.Secret.of.the.Wings.2012.480p.BluRay.AKWAM.mp4",
+      "title":"Tinker Bell: Secret of the Wings",
+      "type":"cartoon fantasy",
+      "rel":"tinkerbell"
+ },
+ {
+ "id":"27",
+      "img":"https://old.akwam.link/files/1546276038.jpg",
+      "desc":"تدور قصة الفيلم حول مجموعة من الأبطال، كل منهم يتمتع بقدرات غير عادية. وعندما تظهر إحدى الأرواح الشريرة وتحاول السيطرة على العالم، يتحد هؤلاء الأبطال في مواجهة تلك الروح والقضاء عليها وإنقاذ العالم",
+      "cast":"",
+      "url":"http://old3.akwam.link/dl/1660358792/Rise.of.the.Guardians.2012.1080p.BluRay.akoam.net.mkv",
+      "title":"Rise of the Guardians",
+      "type":"cartoon fantasy",
+      "rel":"Rise of the Guardians"
  }
 ] 
 }
