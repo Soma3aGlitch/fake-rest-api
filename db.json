@@ -23,7 +23,8 @@
      "cast":"Batman,Joker",
      "url":"https://s357d2.akwam.link/download/1660337290/62f56b0a19ff1/Batman.The.Long.Halloween.Part.One.2021.480p.BluRay.AKWAM.mp4",
      "title":"Batman The Long Halloween Part One",
-      "type":"Cartoon Fantasy"
+      "type":"Cartoon Fantasy",
+      "rel":"batmanhalloween"
     },
     {"id":"4",
       "img":"https://w3.egydead.live/wp-content/uploads/2021/06/فيلم-Batman-The-Long-Halloween-Part-Two-2021-مترجم.jpg",
@@ -31,7 +32,8 @@
      "cast":"batman,Joker",
      "url":"https://s358d2.akwam.link/download/1660337291/62f56b0bc1bcb/Batman.The.Long.Halloween.Part.2.2021.480p.Bluray.AKWAM.mp4",
      "title":"Batman The Long Halloween Part Two",
-      "type":"Cartoon Fantasy"
+      "type":"Cartoon Fantasy",
+      "rel":"batmanhalloween"
     },
     {
       "id":"5",
@@ -173,7 +175,7 @@
       "cast":"",
       "url":"https://s361d2.akwam.link/download/1660313321/62f50d699b4eb/Harry.Potter.and.the.Goblet.of.Fire.2005.480p.BluRay.AKWAM.mp4",
       "title":"Harry Potter and the Goblet of Fire",
-      "rel":"harrypotter6 harrypotter3"
+      "rel":"harrypotter"
  },
  {
  "id":"22",
@@ -244,6 +246,35 @@
       "title":"Rise of the Guardians",
       "type":"cartoon fantasy",
       "rel":"Rise of the Guardians"
+ },
+ { "id":"28",
+      "img":"https://i.egycdn.com/pic/WmFwZndlY21UWVlZWWFjbWJ3Zk5Zam1tbG12.jpg",
+      "desc":"كل ليلة تقصّ (وندي) على شقيقيها الصغيرين (مايكل) و(جون) قصة من مغامرات الفتى المغامر بيتر بان الذي يعيش في نيفرلاند، الأرض التي لا يكبر فيها الأطفال أبدًا. ولم تعتقد وندي يوما أن يأتي إليها (بيتر بان) الذي يدخل غرفتها بصحبة الجنية الصغيرة (تينكر بيل) وتعيش مع (بان) مغامراته ضد القرصان (هوك)",
+      "cast":"",
+      "url":"https://jy0xrwuqnxrkkzsrtg02.vs7000.pics/watch/876fe49b9d2f4573MjcPhnbC8BnMMXvWv.LHI4id8N7XiaNT3Nv|VkPQ__.YnZZaDZxUkdFRU5PZTIwdGVBNmFiOTlDQ2RDcVd2OEJMRm5wUTZ3aEFVTWZJeVNxY0EzUS9WQmdmWDhyeWozYnU4NTIvNW9MVE5WZ1ZFbXcyVUlNcGx6WWljaExjODNVVjhMdHFtNE9xcFBkUlM0MWZ4NHpkV3dpUzB0VmMrRlpUTGtNd1llaDh4dkdZQ1MzdzVGL3praGVCbnRyWkVOOXE3VVpIeEVsWDB5OE04OEg0Z1NPeUpYZVliTmFkU05xSFgydGRjQVRpU1ArUUJYdHZyRURHYlFIT3VHMWp0Nk4vd2lRSXU1dURmd3hTT09vTU5CTXZQaHNFbEZhcEdVWWw5c1pDM2grREZGRDNyUzB3K2VHZGs5Y0JSNTlIOWhaWHlScTFGL2o5b2ltZzNidDJIV01LRjVNVU5iQklEVzNmODJ5OHpQZml3aTliT1dCclFaQTBtbEIxc2E1YTAya2FhMnVBZDJFWmRMaVJGVE5IcEMzaFJEZU44UmU1aGVNYUg1UUVHR09ybFVHL21JOWhYT0d5aXAxOWZuM3BCZGlRdk9uMEE9PQ__",
+      "title":"Peter Pan2003",
+      "type":"Action fantasy",
+      "rel":"PeterPan"
+ },
+ {
+ "id":"29",
+      "img":"https://i.egycdn.com/pic/WmFwZndlY21ZYm1UanZjRWNtemFtdlBsbW1tamw.jpg",
+      "desc":"Wendy and her brothers are whisked away to the magical world of Neverland with the hero of their stories, Peter Pan",
+      "cast":"",
+      "url":"https://mz2fbdz7od7h9sq0cwo4.vs7000.pics/watch/620ec36664a6cf7dsNZUczqz2F302jYO-.hl6Y4cUqHvHrPkVN4W0q5A__.Qm9yTjJ0eC91ODB6U1FoZURrL1NTQzVTY01zU3dSV2tRY1VRclh5b2JQM1RPTGxPazRuYWx6OE81V2tXK1ZBbC8rUERsWkZ1MWtDUFhlK1dFRHRQT21qdndpMlRZMFJUc3RZOFhqN0taTmkzUm14dGdCL3ZjdmJ1S2swWndJWFd5a3ZIU0VNdlVKR0JxdUNsNjIrRFRnTFJwQTlXTzlWc3dzL09wMC8yY3MwcUxUVnA0VkdsZ25pOWd5ZGMrZVM2SVhnOGh0YnhGdS9XTmhCQlE5U0g3Y1Nzb0FSZzlDSGk0OVVGdEFqc0pGV2FZVVBDdFpha2prZDRORTRaQnhwdVU4MkE2blI4RUZVNUdpN1ZaYzd1cTBWcWN4YXE4b3ZFZXgwdTFNbWJpRDQzMUhhVjhRekVHUUFNNWpaNS9CbVUzRDI4bUkybFMwU1hTcUx0bTlXSmZzVWtDRS9VWXRHZ2xPZksza2dUMmdrZ1o1VU43K3BoYkE2dDNES0ZYRmM0M2NoZ1JYRXBmZDVWVTJXTDFTUkMzQkRKQ2NCYXpMTWt1SndXb3d3MVo5MDJqT2U0blNmRWJPSnFkQTQ9",
+      "title":"Peter Pan1953",
+      "type":"Action fantasy cartoon",
+      "rel":"PeterPan"
+ },
+ {
+  "id":"30",
+      "img":"https://i.egycdn.com/pic/WmFwZndlY21UVHZ2TlR2RWNtbW1ZbVBtdm1qbWptag.jpg",
+      "desc":"Wendy and her brothers are whisked away to the magical world of Neverland with the hero of their stories, Peter Pan",
+      "cast":"",
+      "url":"https://gpg2oltiaje3l9s2vkdk.vs7000.pics/watch/c083705858dbd62cDBVGq0wXwFj1C8RXn.bkYgsGRQZftcdLn9ygsBjg__.TWZEZ21PWk1LWFY4WVdBY3QycjNOeGhUblEzY0p3eEo0aDNES3FJQW1pNWt1cldmdVBENWhzVlhQd3FpQ3VQOUYwYkxhUkdtbENDeDUvU2g0UmduRjlBRlNlTEpCM0hCd1hWU1FFNDdXNVRiU1BnbHNEU29KSkxqSXAwWXYxN0JmSGhHOGRsQzk1WFJHZTFCdUI0VVd6clQ2ZlM1bHBRQnNTb25ta090U0V0a0swRHV3aHpTejNNR1dOZ1NmaU9Fa3V4MzZISXRzN2tuaXF2ZXRqV2lPZUZjdW1TOWxramI1VWxiemhyRGQ1ZmJxb1hvNXpIMGMrL0lPY1VEM25SUFV6OGRUNndvNTB0RlZBQ1QrVkw4SzRORWY5cjFSbWIxRnBERkNtVDhSL0w5ZmIxQVc4OVJKTFhPWW1JZ1gxNXR6bS9aMVhqK3RZYzNWL2EwT1pPYjREMy9uS1ZqYlBIZUdPMDJsVHJCQlhZTE5TdVo5cXczblNkYWxobFY0Y0I2dlc2VzJZQ2FhcXN0UHVDbnkwNzRBd25JOFhabGc1NllnNitlVVkxMFd0akQyQUJKRWFqbEtlcXQ1WVVmajd0T1VJL1M1T2c9",
+      "title":"Return to Never Land",
+      "type":"Action fantasy cartoon",
+      "rel":"PeterPan"
  }
 ] 
 }
