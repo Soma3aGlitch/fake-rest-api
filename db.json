@@ -816,6 +816,56 @@
         "url":"https://s320d2.akwam.link/download/1668275487/636e8b9f7d356/Room.207.S01E02.480p.WEB-DL.AKWAM.mp4",
         "title":"الغرفة 207s1 ep2",
         "rel":"4RFA207"
+   },
+   {
+     "id":"89",
+        "img":"https://img.akwam.link/uploads/DEbnl.jpg",
+        "desc":"",
+        "cast":"",
+        "url":"https://s360d1.akwam.link/download/1668546804/6372af74d2076/Elite.S01E01.720p.WEB-DL.AKWAM.mp4",
+        "title":"اElite S1 Ep1",
+        "type":"Adventure Drama Seris",
+        "rel":"el1"
+   },
+   {
+    "id":"90",
+        "img":"https://img.akwam.link/uploads/DEbnl.jpg",
+        "desc":"",
+        "cast":"",
+        "url":"https://s360d2.akwam.link/download/1668546998/6372b036597f8/Elite.S01E02.720p.WEB-DL.AKWAM.mp4",
+        "title":"اElite S1 Ep2",
+        "type":"Adventure Drama Seris",
+        "rel":"el1"
+   },
+   {
+         "id":"91",
+        "img":"https://img.akwam.link/uploads/DEbnl.jpg",
+        "desc":"",
+        "cast":"",
+        "url":"https://s360d1.akwam.link/download/1668547188/6372b0f4505d9/Elite.S01E03.720p.WEB-DL.AKWAM.mp4",
+        "title":"اElite S1 Ep3",
+        "type":"Adventure Drama Seris",
+        "rel":"el1"
+   },
+   {
+       "id":"92",
+        "img":"https://img.akwam.link/uploads/DEbnl.jpg",
+        "desc":"",
+        "cast":"",
+        "url":"https://s360d2.akwam.link/download/1668547303/6372b16724e2d/Elite.S01E04.720p.WEB-DL.AKWAM.mp4",
+        "title":"اElite S1 Ep4",
+        "type":"Adventure Drama Seris",
+        "rel":"el1"
+   },
+   {
+      "id":"93",
+        "img":"https://img.akwam.link/uploads/DEbnl.jpg",
+        "desc":"",
+        "cast":"",
+        "url":"https://s360d2.akwam.link/download/1668547410/6372b1d2d224f/Elite.S01E05.720p.WEB-DL.AKWAM.mp4",
+        "title":"اElite S1 Ep5",
+        "type":"Adventure Drama Seris",
+        "rel":"el1"
    }
   ] 
   }
